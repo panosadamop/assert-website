@@ -1,0 +1,19 @@
+{
+  "name": "assert-gr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "assert.gr – Next.js website + NestJS CMS with flat-file JSON storage",
+  "engines": {
+    "node": ">=20.9"
+  },
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "dev": "node scripts/dev.js",
+    "build": "npm --prefix backend run build && npm --prefix frontend run build",
+    "start": "node scripts/start.js",
+    "package": "node scripts/package-release.js",
+    "docker:up": "docker compose up -d --build",
+    "docker:down": "docker compose down",
+    "docker:logs": "docker compose logs -f"
+  }
+}

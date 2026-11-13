@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Privacy Policy",
+    "slug": "privacy",
+    "published": true,
+    "showInFooter": true,
+    "order": 1,
+    "intro": "How ASSERT collects and uses personal data.",
+    "body": "## Who we are\n\nASSERT (\"we\") operates this website. *Replace this placeholder text with your privacy policy before going live.*\n\n## What we collect\n\nWhen you use our contact form we store your name, email address, organisation, phone number and message so that we can reply to you.\n\n## Your rights\n\nUnder the GDPR you can request access to, correction of or deletion of your data at any time by emailing info@assert.gr.",
+    "seo": {
+      "title": "Privacy Policy",
+      "description": "How ASSERT collects and uses personal data.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-0-privacy"
+  },
+  {
+    "title": "Terms of Use",
+    "slug": "terms",
+    "published": true,
+    "showInFooter": true,
+    "order": 2,
+    "intro": "",
+    "body": "*Replace this placeholder text with your terms of use before going live.*",
+    "seo": {
+      "title": "Terms of Use",
+      "description": "Terms of use for the ASSERT website.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-1-terms"
+  }
+]

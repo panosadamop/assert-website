@@ -1,0 +1,138 @@
+{
+  "siteName": "ASSERT",
+  "siteUrl": "http://localhost:3100",
+  "tagline": "Applied AI for decisions that matter",
+  "logo": "",
+  "logoDark": "",
+  "primaryColor": "#20282d",
+  "accentColor": "#3cc6e0",
+  "headerCta": {
+    "label": "Talk to us",
+    "url": "/contact"
+  },
+  "footerText": "ASSERT — Applied artificial intelligence for defense, energy, enterprise and data.",
+  "announcement": "",
+  "contact": {
+    "email": "info@assert.gr",
+    "phone": "",
+    "street": "",
+    "city": "Athens",
+    "postalCode": "",
+    "country": "GR",
+    "mapUrl": ""
+  },
+  "seo": {
+    "defaultTitle": "ASSERT — AI Solutions for Defense, Energy & Enterprise",
+    "titleTemplate": "%s | ASSERT",
+    "defaultDescription": "Greek AI company building secure, explainable AI for defense, energy, legal and private enterprise. Products: Assert Defense Framework, Lawflow, CoffeeAnalytics.",
+    "keywords": [
+      "artificial intelligence",
+      "AI Greece",
+      "defense AI",
+      "energy AI",
+      "data analysis",
+      "machine learning",
+      "legal AI"
+    ],
+    "defaultOgImage": "",
+    "locale": "en_US",
+    "twitterHandle": "",
+    "allowIndexing": true,
+    "robotsDisallow": []
+  },
+  "verification": {
+    "google": "",
+    "bing": "",
+    "yandex": ""
+  },
+  "organization": {
+    "legalName": "ASSERT",
+    "foundingYear": "",
+    "vatId": "",
+    "description": "ASSERT designs, builds and deploys AI systems for defense, energy, the legal sector and private enterprise."
+  },
+  "redirects": [],
+  "analytics": {
+    "gaMeasurementId": "",
+    "gtmId": "",
+    "plausibleDomain": ""
+  },
+  "socialLinks": [
+    {
+      "network": "linkedin",
+      "url": "",
+      "label": ""
+    },
+    {
+      "network": "x",
+      "url": "",
+      "label": ""
+    },
+    {
+      "network": "facebook",
+      "url": "",
+      "label": ""
+    },
+    {
+      "network": "instagram",
+      "url": "",
+      "label": ""
+    },
+    {
+      "network": "youtube",
+      "url": "",
+      "label": ""
+    }
+  ],
+  "showSocialInFooter": true,
+  "showSocialOnContact": true,
+  "cookies": {
+    "enabled": true,
+    "title": "Your privacy",
+    "text": "We use necessary cookies to make this website work. With your permission we would also like to use analytics cookies to understand how the site is used. You can change your choice at any time via \"Cookie settings\" at the bottom of every page.",
+    "acceptLabel": "Accept all",
+    "rejectLabel": "Necessary only",
+    "customizeLabel": "Cookie settings",
+    "saveLabel": "Save choices",
+    "policyLabel": "Privacy policy",
+    "policyUrl": "/privacy",
+    "necessaryTitle": "Necessary",
+    "necessaryText": "Required for the website to work, for example to remember your cookie choice. Always on.",
+    "analyticsTitle": "Analytics",
+    "analyticsText": "Help us understand how visitors use the website (for example Google Analytics). Only set if you agree."
+  },
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "locale": "en_US",
+      "enabled": true
+    },
+    {
+      "code": "el",
+      "name": "Ελληνικά",
+      "locale": "el_GR",
+      "enabled": false
+    }
+  ],
+  "translations": {
+    "el": {
+      "headerCta": {
+        "label": "Μιλήστε μαζί μας"
+      },
+      "cookies": {
+        "title": "Το απόρρητό σας",
+        "text": "Χρησιμοποιούμε απαραίτητα cookies για τη λειτουργία του ιστότοπου. Με τη συγκατάθεσή σας θα θέλαμε επίσης να χρησιμοποιούμε cookies στατιστικών, για να κατανοούμε πώς χρησιμοποιείται ο ιστότοπος. Μπορείτε να αλλάξετε την επιλογή σας οποιαδήποτε στιγμή από τις «Ρυθμίσεις cookies» στο κάτω μέρος κάθε σελίδας.",
+        "acceptLabel": "Αποδοχή όλων",
+        "rejectLabel": "Μόνο τα απαραίτητα",
+        "customizeLabel": "Ρυθμίσεις cookies",
+        "saveLabel": "Αποθήκευση επιλογών",
+        "policyLabel": "Πολιτική απορρήτου",
+        "necessaryTitle": "Απαραίτητα",
+        "necessaryText": "Απαιτούνται για τη λειτουργία του ιστότοπου, π.χ. για να θυμόμαστε την επιλογή σας για τα cookies. Είναι πάντα ενεργά.",
+        "analyticsTitle": "Στατιστικά",
+        "analyticsText": "Μας βοηθούν να καταλάβουμε πώς χρησιμοποιείται ο ιστότοπος (π.χ. Google Analytics). Ενεργοποιούνται μόνο με τη συγκατάθεσή σας."
+      }
+    }
+  }
+}

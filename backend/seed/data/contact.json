@@ -1,0 +1,29 @@
+{
+  "title": "Contact",
+  "headline": "Let's talk about your next decision.",
+  "intro": "Tell us about your challenge, and our team will get back to you within one business day.",
+  "sectorOptions": [
+    "Defense",
+    "Energy",
+    "Private Enterprise",
+    "Data Analysis",
+    "Legal",
+    "Other"
+  ],
+  "productOptions": [
+    "Assert Defense Framework",
+    "Lawflow",
+    "CoffeeAnalytics",
+    "Custom solution"
+  ],
+  "consentText": "I agree that ASSERT may store and use my details to respond to this enquiry.",
+  "successMessage": "Thank you — your message has been sent. We'll get back to you within one business day.",
+  "seo": {
+    "title": "Contact us",
+    "description": "Talk to ASSERT about AI for defense, energy, legal and private enterprise.",
+    "keywords": [],
+    "ogImage": "",
+    "canonical": "",
+    "noindex": false
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "eyebrow": "Applied artificial intelligence",
+    "headline": "Intelligence you can assert.",
+    "subheadline": "ASSERT designs, builds and deploys AI systems for organisations where decisions carry weight: defense, energy, the legal sector and private enterprise. Secure by design, built to work in Greece and across Europe.",
+    "primaryCta": {
+      "label": "Talk to our team",
+      "url": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Explore our products",
+      "url": "/products"
+    },
+    "image": "/uploads/home-hero.jpg"
+  },
+  "intro": {
+    "title": "AI that works in real operations",
+    "text": "ASSERT is a Greek AI company that turns complex, sensitive data into decisions people can act on. We work with defense organisations, energy operators, law firms and businesses to put artificial intelligence into real operations, not just pilots.\n\nEvery system we deliver is explainable, auditable and built to meet European regulation from day one."
+  },
+  "stats": [
+    {
+      "value": "4",
+      "label": "Core sectors"
+    },
+    {
+      "value": "3",
+      "label": "In-house products"
+    },
+    {
+      "value": "EU",
+      "label": "Built and hosted in Europe"
+    },
+    {
+      "value": "AI Act",
+      "label": "GDPR & EU AI Act aligned"
+    }
+  ],
+  "sectorsTitle": "Where we work",
+  "sectorsIntro": "We bring AI to sectors where accuracy, security and accountability are not optional.",
+  "productsTitle": "Our products",
+  "productsIntro": "Proven platforms, ready to deploy and tailored to your organisation.",
+  "whyTitle": "Why ASSERT",
+  "why": [
+    {
+      "title": "Built for sensitive environments",
+      "text": "From air-gapped defense networks to privileged legal files."
+    },
+    {
+      "title": "Explainable by default",
+      "text": "Our systems show how they reach every answer."
+    },
+    {
+      "title": "Compliance from day one",
+      "text": "GDPR, the EU AI Act and sector regulation are built in, not bolted on."
+    },
+    {
+      "title": "Products and custom solutions",
+      "text": "Proven platforms plus tailored development, from one team."
+    },
+    {
+      "title": "Long-term partner",
+      "text": "We support, monitor and improve every system after launch."
+    }
+  ],
+  "processTitle": "How we work",
+  "process": [
+    {
+      "title": "Discover",
+      "text": "We map your decisions, data and constraints."
+    },
+    {
+      "title": "Design",
+      "text": "We define the solution, the architecture and the success metrics."
+    },
+    {
+      "title": "Build",
+      "text": "Rapid, iterative development with your team involved at every step."
+    },
+    {
+      "title": "Deploy",
+      "text": "Secure roll-out on-premise, in the cloud or at the edge."
+    },
+    {
+      "title": "Evolve",
+      "text": "Monitoring, retraining and continuous improvement."
+    }
+  ],
+  "cta": {
+    "title": "Let's talk about your next decision.",
+    "text": "Tell us about your challenge, and our team will get back to you within one business day.",
+    "label": "Contact us",
+    "url": "/contact"
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "keywords": [],
+    "ogImage": "",
+    "canonical": "",
+    "noindex": false
+  }
+}

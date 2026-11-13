@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Assert Defense Framework",
+    "slug": "assert-defense-framework",
+    "published": true,
+    "order": 1,
+    "icon": "shield",
+    "logo": "",
+    "category": "Defense · AI platform",
+    "tagline": "One framework. Every source. Decisions you can defend.",
+    "summary": "Modular AI platform for data fusion, situational awareness and explainable decision support.",
+    "description": "Assert Defense Framework is ASSERT's modular AI platform for defense and security organisations. It brings data from sensors, intelligence and operational systems into a single secure environment. There, AI models detect, analyse and predict, so analysts and commanders can act faster with full confidence in the result.",
+    "featuresTitle": "Core capabilities",
+    "features": [
+      {
+        "title": "Data fusion engine",
+        "text": "Ingests and correlates structured and unstructured data from many sources in near real time."
+      },
+      {
+        "title": "Common operational picture",
+        "text": "Map-based, role-specific views of the current situation."
+      },
+      {
+        "title": "AI analytics modules",
+        "text": "Object and pattern recognition, anomaly detection, threat assessment and predictive analysis."
+      },
+      {
+        "title": "Explainable decision support",
+        "text": "Every recommendation shows its sources, confidence level and reasoning."
+      },
+      {
+        "title": "Human-in-the-loop control",
+        "text": "People approve every critical decision, and every action is logged."
+      },
+      {
+        "title": "Secure by architecture",
+        "text": "Role-based access, encryption and deployment on-premise, at the tactical edge or in air-gapped networks."
+      },
+      {
+        "title": "Open and interoperable",
+        "text": "Modular APIs that connect with existing command-and-control (C2) and information systems."
+      }
+    ],
+    "stepsTitle": "",
+    "steps": [],
+    "integrationsTitle": "",
+    "integrations": [],
+    "audienceTitle": "Who it is for",
+    "audience": [
+      "Armed forces",
+      "Defense agencies",
+      "Coast guard and border security",
+      "Defense industry partners"
+    ],
+    "highlights": [
+      "Human in command",
+      "Air-gapped ready",
+      "Explainable by design"
+    ],
+    "cta": {
+      "title": "See it in action",
+      "text": "Arrange a confidential briefing with our defense team.",
+      "label": "Request a confidential briefing",
+      "url": "/contact"
+    },
+    "externalUrl": "",
+    "seo": {
+      "title": "Assert Defense Framework — Secure AI Platform for Defense",
+      "description": "Modular AI platform for data fusion, situational awareness and explainable decision support.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-0-assert-defense-framework",
+    "image": "/uploads/product-assert-defense-framework.jpg"
+  },
+  {
+    "name": "Lawflow",
+    "slug": "lawflow",
+    "published": true,
+    "order": 2,
+    "icon": "scale",
+    "logo": "",
+    "category": "Legal · AI platform",
+    "tagline": "The AI-powered law office, connected to the State.",
+    "summary": "AI for law firms: research, drafting and case management, integrated with Greek and EU public-sector systems.",
+    "description": "Lawflow is an AI platform built for Greek law firms and legal departments. It brings case management, legal research, document drafting and deadlines into one place.\n\nLawflow connects directly to the Greek and European public-sector systems lawyers use every day, so less time goes on admin and more on practising law.",
+    "featuresTitle": "Key features",
+    "features": [
+      {
+        "title": "AI legal research",
+        "text": "Search Greek and EU legislation and case law in natural language, with cited sources."
+      },
+      {
+        "title": "Document drafting and review",
+        "text": "Generate first drafts of lawsuits, contracts and memos, and check documents for risks and missing clauses."
+      },
+      {
+        "title": "Case and matter management",
+        "text": "Clients, cases, documents, hearings and billing in one workspace."
+      },
+      {
+        "title": "Deadline intelligence",
+        "text": "Automatic calculation and reminders for procedural deadlines and court dates."
+      },
+      {
+        "title": "Public-sector integration",
+        "text": "Retrieve data and file documents through official Greek and EU systems without retyping."
+      },
+      {
+        "title": "Secure and compliant",
+        "text": "GDPR-compliant, EU-hosted, with encryption that protects attorney–client privilege."
+      }
+    ],
+    "stepsTitle": "",
+    "steps": [],
+    "integrationsTitle": "Public-sector integrations",
+    "integrations": [
+      {
+        "group": "Greece",
+        "items": [
+          "gov.gr services",
+          "Courts e-filing (Solon)",
+          "General Commercial Registry (GEMI)",
+          "Hellenic Cadastre",
+          "Government Gazette (FEK)",
+          "Diavgeia",
+          "AADE / myAADE"
+        ]
+      },
+      {
+        "group": "European Union",
+        "items": [
+          "EUR-Lex",
+          "CURIA – Court of Justice of the EU",
+          "European e-Justice Portal",
+          "Business Registers Interconnection System (BRIS)"
+        ]
+      }
+    ],
+    "audienceTitle": "Who it is for",
+    "audience": [
+      "Law firms of every size",
+      "Sole practitioners",
+      "In-house legal teams",
+      "Notaries"
+    ],
+    "highlights": [
+      "Hours saved per case",
+      "Fewer missed deadlines",
+      "Faster filings",
+      "One secure home for every document"
+    ],
+    "cta": {
+      "title": "See Lawflow in your practice",
+      "text": "Book a 30-minute demo with our legal-tech team.",
+      "label": "Book a Lawflow demo",
+      "url": "/contact"
+    },
+    "externalUrl": "",
+    "seo": {
+      "title": "Lawflow — AI for Law Firms in Greece & the EU",
+      "description": "AI legal research, drafting and case management, integrated with Greek and EU public-sector systems.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-1-lawflow",
+    "image": "/uploads/product-lawflow.jpg"
+  },
+  {
+    "name": "CoffeeAnalytics",
+    "slug": "coffeeanalytics",
+    "published": true,
+    "order": 3,
+    "icon": "coffee",
+    "logo": "",
+    "category": "Food & beverage · IoT analytics",
+    "tagline": "Intelligence in every drop.",
+    "summary": "Measure every serving, forecast demand and protect supply across the venues you serve.",
+    "description": "CoffeeAnalytics measures every serving poured in the venues a beverage supplier serves, and turns it into sales, stock and forecasting intelligence.\n\nA compact device fits to professional espresso machines, beer taps and postmix dispensers and records each pour as it happens. Suppliers see consumption, stock and forecasts for every venue on the web or on their phone. The venue's staff don't need to change how they work.",
+    "featuresTitle": "What it does",
+    "features": [
+      {
+        "title": "Live consumption tracking",
+        "text": "Every serving is logged per group, tap or valve, replacing estimates based on invoices."
+      },
+      {
+        "title": "Customer stock estimates",
+        "text": "Recorded deliveries minus measured servings show how many days of product each venue has left."
+      },
+      {
+        "title": "Supplier protection",
+        "text": "Compares measured consumption with deliveries and flags product that came from another supplier."
+      },
+      {
+        "title": "Sales dashboard",
+        "text": "Volume, turnover, margin, quarterly targets and per-rep performance."
+      },
+      {
+        "title": "Daily rep lists and routing",
+        "text": "Which customers need a delivery, who is ordering later than usual, and routes based on real consumption."
+      },
+      {
+        "title": "AI forecasting",
+        "text": "Per-machine forecasts based on history, the same season last year, weather and public holidays."
+      },
+      {
+        "title": "Venue tools",
+        "text": "Peak-hour charts, weekly forecasts and suggested staffing for busy periods."
+      },
+      {
+        "title": "Geomarketing",
+        "text": "A consumption map by street and neighbourhood that shows untapped areas and compares sites."
+      }
+    ],
+    "stepsTitle": "How it works",
+    "steps": [
+      {
+        "title": "Fit the device",
+        "text": "A technician installs it in minutes on espresso machines, beer taps or postmix dispensers."
+      },
+      {
+        "title": "Measure every serving",
+        "text": "Up to 4 groups per machine, encrypted, with offline buffering."
+      },
+      {
+        "title": "Compare and forecast",
+        "text": "The platform subtracts consumption from deliveries and forecasts demand."
+      },
+      {
+        "title": "Act on the data",
+        "text": "Reps and management get daily lists, dashboards and alerts."
+      }
+    ],
+    "integrationsTitle": "",
+    "integrations": [],
+    "audienceTitle": "Who it is for",
+    "audience": [
+      "Coffee roasters and suppliers",
+      "Breweries and beer distributors",
+      "Soft-drink companies"
+    ],
+    "highlights": [
+      "Zero changes to how the venue works",
+      "One platform for management, sales, marketing and service",
+      "No software to install and no staff training"
+    ],
+    "cta": {
+      "title": "Measure every drop",
+      "text": "Request a demo and a quote for your network of venues.",
+      "label": "Request a demo",
+      "url": "https://coffeeanalytics.gr/en/contact/"
+    },
+    "externalUrl": "https://coffeeanalytics.gr",
+    "seo": {
+      "title": "CoffeeAnalytics — Beverage Consumption Analytics",
+      "description": "Measure every serving, forecast demand and protect supply across your venues.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-2-coffeeanalytics",
+    "image": "/uploads/product-coffeeanalytics.jpg"
+  }
+]

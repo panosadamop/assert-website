@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Defense",
+    "slug": "defense",
+    "published": true,
+    "featured": true,
+    "order": 1,
+    "icon": "shield",
+    "headline": "Decision advantage, delivered securely.",
+    "summary": "Decision support and situational awareness for mission-critical environments.",
+    "intro": "Modern defense runs on information. There are more sensors, more data and less time to decide. ASSERT helps defense and security organisations turn that data into situational awareness and faster, better-informed decisions, while people stay in command.",
+    "capabilitiesTitle": "What we deliver",
+    "capabilities": [
+      {
+        "title": "Multi-source data fusion",
+        "text": "Combine sensor, intelligence, geospatial and open-source data into one operational picture."
+      },
+      {
+        "title": "Decision support",
+        "text": "AI-assisted analysis that ranks options and explains its reasoning to commanders."
+      },
+      {
+        "title": "Anomaly and threat detection",
+        "text": "Spot unusual patterns in maritime, air, land and cyber domains."
+      },
+      {
+        "title": "Predictive maintenance and logistics",
+        "text": "Keep platforms available and supply chains ready."
+      },
+      {
+        "title": "Secure deployment",
+        "text": "On-premise, edge and air-gapped installations, with sovereign control of data and models."
+      }
+    ],
+    "image": "/uploads/sector-defense.jpg",
+    "seo": {
+      "title": "AI for Defense & Security",
+      "description": "Data fusion, decision support and threat detection for defense organisations. Deployed on-premise, at the edge or air-gapped.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-0-defense"
+  },
+  {
+    "name": "Energy",
+    "slug": "energy",
+    "published": true,
+    "featured": true,
+    "order": 2,
+    "icon": "bolt",
+    "headline": "Smarter energy, from generation to grid.",
+    "summary": "Forecasting, asset monitoring and grid intelligence for a changing energy market.",
+    "intro": "The energy transition brings more renewables, more volatility and more data. ASSERT gives energy producers, grid operators and suppliers the forecasting and monitoring tools to run reliably and efficiently.",
+    "capabilitiesTitle": "What we deliver",
+    "capabilities": [
+      {
+        "title": "Demand and generation forecasting",
+        "text": "Accurate load, solar and wind forecasts to plan and trade with confidence."
+      },
+      {
+        "title": "Asset monitoring and predictive maintenance",
+        "text": "Detect faults early across turbines, substations and networks."
+      },
+      {
+        "title": "Grid intelligence",
+        "text": "Identify losses, anomalies and congestion before they become outages."
+      },
+      {
+        "title": "Energy market analytics",
+        "text": "Price forecasting and scenario analysis for trading and procurement."
+      },
+      {
+        "title": "Critical infrastructure security",
+        "text": "AI-driven monitoring for operational technology (OT) environments."
+      }
+    ],
+    "image": "/uploads/sector-energy.jpg",
+    "seo": {
+      "title": "AI for the Energy Sector",
+      "description": "Forecasting, predictive maintenance and grid intelligence for energy producers and operators.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-1-energy"
+  },
+  {
+    "name": "Private Enterprise",
+    "slug": "private-enterprise",
+    "published": true,
+    "featured": true,
+    "order": 3,
+    "icon": "building",
+    "headline": "AI that pays for itself.",
+    "summary": "Automation and AI copilots that cut cost and speed up work.",
+    "intro": "We help businesses of every size move from AI curiosity to measurable return. ASSERT identifies the processes where AI adds the most value, then builds solutions that fit existing systems and teams.",
+    "capabilitiesTitle": "What we deliver",
+    "capabilities": [
+      {
+        "title": "Intelligent automation",
+        "text": "Automate document handling, approvals and back-office workflows."
+      },
+      {
+        "title": "AI assistants and copilots",
+        "text": "Secure assistants trained on your own knowledge, documents and policies."
+      },
+      {
+        "title": "Customer and sales intelligence",
+        "text": "Churn prediction, demand forecasting and smarter pricing."
+      },
+      {
+        "title": "Integration",
+        "text": "Connect AI to your ERP, CRM and data platforms."
+      },
+      {
+        "title": "AI strategy and governance",
+        "text": "Roadmaps, risk assessment and EU AI Act readiness."
+      }
+    ],
+    "image": "/uploads/sector-private-enterprise.jpg",
+    "seo": {
+      "title": "AI for Business",
+      "description": "Intelligent automation, AI copilots and analytics that deliver measurable ROI.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-2-private-enterprise"
+  },
+  {
+    "name": "Data Analysis",
+    "slug": "data-analysis",
+    "published": true,
+    "featured": true,
+    "order": 4,
+    "icon": "chart",
+    "headline": "From data to decisions.",
+    "summary": "From scattered data to clear, trustworthy insight.",
+    "intro": "Most organisations have more data than they use. ASSERT turns scattered data into a single, reliable source of insight, with dashboards, models and reports that answer real business questions.",
+    "capabilitiesTitle": "What we deliver",
+    "capabilities": [
+      {
+        "title": "Data engineering",
+        "text": "Pipelines, data warehouses and data quality, built to last."
+      },
+      {
+        "title": "Advanced analytics and machine learning",
+        "text": "Forecasting, segmentation, optimisation and anomaly detection."
+      },
+      {
+        "title": "Business intelligence",
+        "text": "Clear, interactive dashboards for management and operations."
+      },
+      {
+        "title": "Geospatial analytics",
+        "text": "Location-based insight for planning, logistics and market expansion."
+      },
+      {
+        "title": "Natural-language access",
+        "text": "Ask questions of your data in plain Greek or English."
+      }
+    ],
+    "image": "/uploads/sector-data-analysis.jpg",
+    "seo": {
+      "title": "Data Analytics & Machine Learning",
+      "description": "Data engineering, BI dashboards and machine learning that turn data into decisions.",
+      "keywords": [],
+      "ogImage": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "id": "seed-3-data-analysis"
+  }
+]

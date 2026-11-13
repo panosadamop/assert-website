@@ -1,0 +1,86 @@
+{
+  "header": [
+    {
+      "label": "Sectors",
+      "kind": "sectors",
+      "url": "/sectors",
+      "newTab": false
+    },
+    {
+      "label": "Products",
+      "kind": "products",
+      "url": "/products",
+      "newTab": false
+    },
+    {
+      "label": "About",
+      "kind": "link",
+      "url": "/about",
+      "newTab": false
+    },
+    {
+      "label": "Contact",
+      "kind": "link",
+      "url": "/contact",
+      "newTab": false
+    }
+  ],
+  "footer": [
+    {
+      "title": "Sectors",
+      "kind": "sectors",
+      "links": []
+    },
+    {
+      "title": "Products",
+      "kind": "products",
+      "links": []
+    },
+    {
+      "title": "Contact",
+      "kind": "contact",
+      "links": [
+        {
+          "label": "About us",
+          "url": "/about",
+          "newTab": false
+        }
+      ]
+    }
+  ],
+  "legal": [],
+  "translations": {
+    "el": {
+      "header": [
+        {
+          "label": "Τομείς"
+        },
+        {
+          "label": "Προϊόντα"
+        },
+        {
+          "label": "Η εταιρεία"
+        },
+        {
+          "label": "Επικοινωνία"
+        }
+      ],
+      "footer": [
+        {
+          "title": "Τομείς"
+        },
+        {
+          "title": "Προϊόντα"
+        },
+        {
+          "title": "Επικοινωνία",
+          "links": [
+            {
+              "label": "Σχετικά με εμάς"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

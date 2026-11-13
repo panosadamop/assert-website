@@ -1,0 +1,39 @@
+{
+  "title": "About ASSERT",
+  "headline": "Applied AI for decisions that matter.",
+  "intro": "ASSERT builds artificial intelligence that works in the real world: on secure networks, with imperfect data and under strict rules. We combine machine learning, data engineering and domain expertise to deliver systems that people trust and use every day.\n\nWe start from the problem, not the algorithm. Each engagement begins with the decision a client needs to make, the data they already hold and the constraints they work under. Then we build, integrate and support the solution until it delivers measurable results.",
+  "missionTitle": "Our mission",
+  "mission": "To give organisations in Greece and Europe AI capabilities that are sovereign, secure and accountable.",
+  "valuesTitle": "What we stand for",
+  "values": [
+    {
+      "title": "Trust by design",
+      "text": "Explainable models, full audit trails and a human in the loop wherever decisions carry risk."
+    },
+    {
+      "title": "Security first",
+      "text": "On-premise, private-cloud and air-gapped deployments for sensitive environments."
+    },
+    {
+      "title": "European compliance",
+      "text": "Built in line with GDPR, the EU AI Act and sector-specific regulation."
+    },
+    {
+      "title": "Real-world delivery",
+      "text": "We measure success by systems in production, not proofs of concept."
+    },
+    {
+      "title": "Local expertise, European reach",
+      "text": "Deep knowledge of the Greek market and public sector, built to scale across the EU."
+    }
+  ],
+  "image": "/uploads/about-team.jpg",
+  "seo": {
+    "title": "About us",
+    "description": "ASSERT is a Greek AI company delivering secure, explainable AI for defense, energy, legal and private enterprise.",
+    "keywords": [],
+    "ogImage": "",
+    "canonical": "",
+    "noindex": false
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+.next/
+dist/
+release/
+docker-data/
+backend/storage/
+.env
+*.log
+.DS_Store
+next-env.d.ts
+*.tsbuildinfo
+.idea/
+.vscode/

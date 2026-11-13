@@ -1,0 +1,36 @@
+{
+  "name": "assert-cms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ASSERT CMS – NestJS API and admin panel with flat-file JSON storage",
+  "main": "app.js",
+  "engines": {
+    "node": ">=20.9"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "start": "node app.js",
+    "dev": "node scripts/dev.js",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/ubuntu": "^5.3.0",
+    "@nestjs/common": "^11.1.0",
+    "@nestjs/core": "^11.1.0",
+    "@nestjs/jwt": "^11.0.0",
+    "@nestjs/platform-express": "^11.1.0",
+    "@nestjs/serve-static": "^5.0.0",
+    "@nestjs/throttler": "^6.4.0",
+    "@types/express": "^5.0.0",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^22.10.0",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^5.3.0",
+    "helmet": "^8.1.0",
+    "multer": "^2.0.0",
+    "reflect-metadata": "^0.2.2",
+    "rxjs": "^7.8.2",
+    "typescript": "~5.9.0"
+  }
+}
